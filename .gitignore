@@ -1,0 +1,8 @@
+# Ignore all contents of shp/ and fig/
+shp/*
+fig/*
+
+# Allow the folders themselves to be tracked (optional)
+!shp/.gitkeep
+!fig/.gitkeep
+
