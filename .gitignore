@@ -4,5 +4,6 @@ fig/*
 
 # Allow the folders themselves to be tracked (optional)
 !shp/.gitkeep
+!shp/saglek.*
 !fig/.gitkeep
 
